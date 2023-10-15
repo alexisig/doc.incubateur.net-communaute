@@ -38,7 +38,7 @@ Tu auras donc accès à ta boite email @beta.gouv, à la messagerie de ton équi
 2. Utilise ton email secondaire (celui renseigné dans le formulaire) pour te connecter à ta fiche
 3. Demande un renouvellement du mot de passe de ta boîte mail
 
-#### Pourquoi créer te créer un compte Github si tu n'en as pas encore ? _**(facultatif)**_
+#### Pourquoi te créer un compte Github si tu n'en as pas encore ? _**(facultatif)**_
 
 En ayant un compte Github, tu gagneras en autonomie durant ta mission dans une équipe du réseau beta.gouv. Par exemple, tu seras autonome pour mettre à jour ta fiche produit ou ta fiche membre.
 
